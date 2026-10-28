@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EDF (Tempo tariff) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://edf.fr/
+EDF (Tempo tariff) is a French electric utility and energy provider, part of the Groupe EDF group. It supplies electricity and gas to residential, commercial and industrial customers, and offers various tariffs such as the Tempo tariff for electricity consumption. EDF focuses on decarbonisation, renewable energy development, and digital services for energy management. The company operates a large portfolio of nuclear, hydro, wind and solar power plants, and provides public information, developer resources, and corporate data through its website.
+
+**Areas:** Company · Energy · Utilities · France · Renewable
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://edf.fr/)
+- [Security](https://vdp.edf.fr)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/edf/](https://apis.io/providers/edf/).
